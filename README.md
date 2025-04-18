@@ -1,16 +1,32 @@
-## Hi there 👋
+# Enver Onur Cogalan
 
-<!--
-**Enver-Onur-Cogalan/Enver-Onur-Cogalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**React Native Developer** | I produce mobile solutions with scientific thinking.
 
-Here are some ideas to get you started:
+Hello! 👋 I'm Enver Onur Çoğalan. I transitioned from a biology background into mobile application development, combining analytical thinking with a passion for clean code and user-focused design. My goal is to build engaging, multilingual, and animated apps using React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- React Native
+- JavaScript (ES6+)
+- Git & GitHub
+- UI/UX Design
+- Teamwork & Problem Solving
+
+---
+
+## 🛠️ Featured Projects
+
+### 🔹 [x0x2049 – React Native XOX Game](https://github.com/Enver-Onur-Cogalan/XOX-2049)
+> A cyberpunk-inspired, animated Tic Tac Toe game built with React Native.  
+> Focused on clean UI, player interaction, and game logic.
+
+### 🔹 More projects coming soon... ✨
+
+---
+
+## 💬 Contact
+- 📧 eonurcogalan@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/onurcogalan/)
+
+---
