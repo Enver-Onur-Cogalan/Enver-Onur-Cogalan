@@ -29,6 +29,7 @@
 Firebase ve React Native ile film arama uygulaması. Beğendiğin filmleri kaydet, aktörleri görüntüle, film ara — hepsi bir arada!
 
 **Tech:** React Native • Firebase • TMDB API
+[View Code](https://github.com/Enver-Onur-Cogalan/MovieAppRN)
 
 ---
 
@@ -37,19 +38,6 @@ Firebase ve React Native ile film arama uygulaması. Beğendiğin filmleri kayde
 
 **Tech:** React • Three.js • TypeScript  
 [View Code](https://github.com/Enver-Onur-Cogalan/brain-portfolio)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enver-Onur-Cogalan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enver-Onur-Cogalan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enver-Onur-Cogalan&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 
