@@ -29,6 +29,7 @@
 Firebase ve React Native ile film arama uygulaması. Beğendiğin filmleri kaydet, aktörleri görüntüle, film ara — hepsi bir arada!
 
 **Tech:** React Native • Firebase • TMDB API
+
 [View Code](https://github.com/Enver-Onur-Cogalan/MovieAppRN)
 
 ---
@@ -36,7 +37,8 @@ Firebase ve React Native ile film arama uygulaması. Beğendiğin filmleri kayde
 ### 🧠 [Brain Portfolio](https://brain-portfolio.vercel.app)
 3D interactive portfolio featuring an anatomically inspired brain model with advanced Three.js animations and morph effects.
 
-**Tech:** React • Three.js • TypeScript  
+**Tech:** React • Three.js • TypeScript 
+
 [View Code](https://github.com/Enver-Onur-Cogalan/brain-portfolio)
 
 ---
