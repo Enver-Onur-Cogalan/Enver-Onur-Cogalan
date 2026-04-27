@@ -34,12 +34,12 @@ Firebase ve React Native ile film arama uygulaması. Beğendiğin filmleri kayde
 
 ---
 
-### 😎 [Portfolio]([https://brain-portfolio.vercel.app](https://portfolio-sand-two-79.vercel.app))
+### 😎 [Portfolio](https://portfolio-sand-two-79.vercel.app)
 Personal portfolio website with modern animations and interactive chat bot. A Next.js application featuring About, Projects, Experience and Contact sections.
 
 **Tech:** React • Next.js • TypeScript • TailwindCSS • GSAP 
 
-[View Code]([https://github.com/Enver-Onur-Cogalan/brain-portfolio](https://github.com/Enver-Onur-Cogalan/portfolio))
+[View Code](https://github.com/Enver-Onur-Cogalan/portfolio)
 
 ---
 
