@@ -34,12 +34,12 @@ Firebase ve React Native ile film arama uygulaması. Beğendiğin filmleri kayde
 
 ---
 
-### 🧠 [Brain Portfolio](https://brain-portfolio.vercel.app)
-3D interactive portfolio featuring an anatomically inspired brain model with advanced Three.js animations and morph effects.
+### 😎 [Portfolio]([https://brain-portfolio.vercel.app](https://portfolio-sand-two-79.vercel.app))
+Personal portfolio website with modern animations and interactive chat bot. A Next.js application featuring About, Projects, Experience and Contact sections.
 
-**Tech:** React • Three.js • TypeScript 
+**Tech:** React • Next.js • TypeScript • TailwindCSS • GSAP 
 
-[View Code](https://github.com/Enver-Onur-Cogalan/brain-portfolio)
+[View Code]([https://github.com/Enver-Onur-Cogalan/brain-portfolio](https://github.com/Enver-Onur-Cogalan/portfolio))
 
 ---
 
