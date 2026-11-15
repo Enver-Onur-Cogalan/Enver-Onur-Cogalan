@@ -33,7 +33,7 @@ You set what you will actually go out in, and it finds the hours that clear all 
 <sub>React Native (Expo) · TypeScript · Skia · FastAPI · Gemma 4B (Ollama) · Docker</sub>
 
 **[Meme File](https://memefile.vercel.app)**: the right reaction video, while the moment is still funny<br>
-A Windows library for reaction videos: tag clips with chips, find one in a second with full-text search, drag it straight into Discord. Your files never move.<br>
+A Windows library for reaction videos: tag clips with chips, find one in a second with full-text search, drag it straight into your chat app. Your files never move.<br>
 <sub>Electron · React · TypeScript · SQLite (FTS5) · FFmpeg</sub><br>
 [Website](https://memefile.vercel.app) · [Download](https://github.com/Enver-Onur-Cogalan/meme-file/releases/latest) · [Code](https://github.com/Enver-Onur-Cogalan/meme-file)
 
