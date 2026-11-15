@@ -1,62 +1,50 @@
 <div align="center">
 
-# 👋 Hey, I'm Onur!
+# Hey, I'm Onur 👋
 
-### 🧬 Mobile Developer with a Biology background
+**AI Engineer & Mobile Developer** · Izmir / Remote · open to new roles
 
-*I see code like living organisms — evolving, adapting, finding balance.*  
-*From lab notebooks to code editors, I learned that understanding details shapes the whole system.*
+*I started out as a biologist; now my test subjects are AI models.*<br>
+*Good news: none of them bite.*
 
-🎯 Building mobile experiences with **React Native, TypeScript & AI**
+</div>
 
 ---
 
-## 🎨 Tech Stack Pool
+### 🧬 What I do
 
-<div align="center">
+I build AI systems people actually use: agents, OCR pipelines, speech and language model integrations, and the mobile apps they live in.
+
+- At **Unimall** I automated an e-commerce operation of 22M+ product records across 3 sales channels; the OCR pipeline alone cut operating costs by 40%.
+- At **Envagro** I benchmarked STT, TTS and LLM models under identical conditions, so model choices came from measurements instead of hunches.
+- The lab habit stuck: assumptions get verified by measurement.
+
+### 🚀 Featured projects
+
+**[WeatherApp](https://github.com/Enver-Onur-Cogalan/WeatherApp)**: not what the weather is, but when to go out<br>
+You set what you will actually go out in, and it finds the hours that clear all of it. The model that reads your question runs locally, on the machine you host it on.<br>
+<sub>React Native (Expo) · TypeScript · Skia · FastAPI · Gemma 4B (Ollama) · Docker</sub>
+
+**[Meme File](https://memefile.vercel.app)**: the right reaction video, while the moment is still funny<br>
+A Windows library for reaction videos: tag clips with chips, find one in a second with full-text search, drag it straight into Discord. Your files never move.<br>
+<sub>Electron · React · TypeScript · SQLite (FTS5) · FFmpeg</sub><br>
+[Website](https://memefile.vercel.app) · [Download](https://github.com/Enver-Onur-Cogalan/meme-file/releases/latest) · [Code](https://github.com/Enver-Onur-Cogalan/meme-file)
+
+**[Portfolio](https://enveronurcogalan.vercel.app)**: a chatbot that talks without an LLM<br>
+My personal site: a microscope video you drive with the scroll wheel, a line-art version of me living my day, and a rule-based bilingual bot guarded by a 250+ case test set. Somewhere there is a hidden game.<br>
+<sub>Next.js · React · TypeScript · Tailwind CSS · GSAP</sub><br>
+[Live](https://enveronurcogalan.vercel.app) · [Code](https://github.com/Enver-Onur-Cogalan/portfolio)
+
+### 🎨 Tech stack pool
 
 <a href="https://enver-onur-cogalan.github.io/tech-pool/">
-  <img src="https://github.com/user-attachments/assets/a7c5f408-1d4f-4feb-8e37-79bd1cb9f0f3" alt="Interactive Tech Stack" width="700"/>
+  <img src="https://github.com/user-attachments/assets/a7c5f408-1d4f-4feb-8e37-79bd1cb9f0f3" alt="Interactive tech stack cards" width="700"/>
 </a>
 
-<p><i>👆 Click to interact with the 3D tech cards!</i></p>
-</div>
----
+<sub>👆 Click to play with the 3D tech cards.</sub>
 
-## 🚀 Featured Projects
+### 📫 Let's connect
 
-### 🎬 [MovieAppRN](https://github.com/Enver-Onur-Cogalan/MovieAppRN)
-Firebase ve React Native ile film arama uygulaması. Beğendiğin filmleri kaydet, aktörleri görüntüle, film ara — hepsi bir arada!
+[Portfolio](https://enveronurcogalan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/onurcogalan/) · [Medium](https://medium.com/@onurcogalan_96763) · [CV (EN)](https://enveronurcogalan.vercel.app/cv-en.pdf) · [Email](mailto:eonurcogalan@gmail.com)
 
-**Tech:** React Native • Firebase • TMDB API
-
-[View Code](https://github.com/Enver-Onur-Cogalan/MovieAppRN)
-
----
-
-### 😎 [Portfolio](https://portfolio-sand-two-79.vercel.app)
-Personal portfolio website with modern animations and interactive chat bot. A Next.js application featuring About, Projects, Experience and Contact sections.
-
-**Tech:** React • Next.js • TypeScript • TailwindCSS • GSAP 
-
-[View Code](https://github.com/Enver-Onur-Cogalan/portfolio)
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onurcogalan/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@onurcogalan_96763)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sand-two-79.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-  <i>💭 "Understanding details shapes the whole system"</i>
-</div>
-
-</div>
+<sub>Or ask the bot on my site. It won't make things up; it doesn't know how.</sub>
