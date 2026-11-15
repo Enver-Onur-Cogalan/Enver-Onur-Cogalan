@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/lab-dark.svg">
+    <img src="assets/lab-light.svg" width="520" alt="Line drawing: a hand feeds a data card to a tardigrade in a jar labelled LLM; it tries to bite the finger, has no teeth, and apologizes">
+  </picture>
+</p>
+
 <div align="center">
 
 # Hey, I'm Onur 👋
@@ -35,13 +42,13 @@ My personal site: a microscope video you drive with the scroll wheel, a line-art
 <sub>Next.js · React · TypeScript · Tailwind CSS · GSAP</sub><br>
 [Live](https://enveronurcogalan.vercel.app) · [Code](https://github.com/Enver-Onur-Cogalan/portfolio)
 
-### 🎨 Tech stack pool
+### 🧰 Stack
 
-<a href="https://enver-onur-cogalan.github.io/tech-pool/">
-  <img src="https://github.com/user-attachments/assets/a7c5f408-1d4f-4feb-8e37-79bd1cb9f0f3" alt="Interactive tech stack cards" width="700"/>
-</a>
-
-<sub>👆 Click to play with the 3D tech cards.</sub>
+- **AI & language models**: LLM · RAG · AI agents · LangChain · LangGraph · Azure OpenAI · Local LLM (Ollama) · OCR · STT / TTS · Prompt engineering · Model benchmarking
+- **Mobile**: React Native · Expo · React Native CLI · TypeScript · Skia · Reanimated · Drizzle ORM
+- **Web & interface**: React · Next.js · Tailwind CSS · GSAP · Electron · Zustand · Streamlit
+- **Backend & data**: Node.js · Python · FastAPI · API design · Socket.IO · FFmpeg · PostgreSQL · SQLite · MongoDB · Redis · Supabase · Firebase
+- **Infrastructure & tools**: Docker · Microsoft Azure · Azure Blob Storage · Signed URL / SAS · Railway · Git · Webhooks & cronjobs · GitHub Actions (CI/CD)
 
 ### 📫 Let's connect
 
